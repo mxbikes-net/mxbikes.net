@@ -6,3 +6,4 @@ SQLAlchemy==2.0.37
 Werkzeug==2.3.7
 ijson==3.2.3
 PyJWT==2.8.0
+mysqlclient==2.2.1
